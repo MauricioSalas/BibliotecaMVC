@@ -1,0 +1,18 @@
+body{
+    font-family: 'Noto Sans', sans-serif !important;
+}
+
+#barraCrear{
+    width: 80%;
+    margin: 4rem auto;
+    margin-bottom: 0.5rem;
+}
+
+#tablaCentrada, #formulario{
+    width: 80%;
+    margin: 1rem auto;
+}
+
+.margin-bottom {
+    margin-bottom: 1rem;
+}
